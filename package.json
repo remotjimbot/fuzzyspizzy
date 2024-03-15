@@ -1,0 +1,19 @@
+{
+  "name": "fuzzyspizzy",
+  "version": "1.0.0",
+  "description": "puzzy puzzy puzzy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remotjimbot/fuzzyspizzy.git"
+  },
+  "author": "remotjimbot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remotjimbot/fuzzyspizzy/issues"
+  },
+  "homepage": "https://github.com/remotjimbot/fuzzyspizzy#readme"
+}
